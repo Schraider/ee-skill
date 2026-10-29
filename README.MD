@@ -1,4 +1,4 @@
-# Senior EE Skill
+# Electronical Engineering Design Skill
 
 A system prompt that turns local and cloud LLMs into a senior electrical and electronics engineer.
 
