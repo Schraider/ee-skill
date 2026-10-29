@@ -1,4 +1,4 @@
-# Electronical Engineering Design Skill
+# Electronical Design Engineering Skill
 
 A system prompt that turns local and cloud LLMs into a senior electrical and electronics engineer.
 
@@ -30,5 +30,5 @@ Forces the model to think like an engineer who has actually debugged a board:
 ### Ollama
 
 ```bash
-ollama create eee-engineer -f modelfile
-ollama run eee-engineer
+ollama create ee-skill -f modelfile
+ollama run ee-skill
